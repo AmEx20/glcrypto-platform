@@ -1,0 +1,1 @@
+{\n  \"name\": \"glcrypto-platform\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\"\n  },\n  \"dependencies\": {\n    \"react\": \"^18.0.0\",\n    \"next\": \"^12.0.0\",\n    \"tailwindcss\": \"^2.0.0\",\n    \"@shadcn/ui\": \"^1.0.0\"\n  }\n}
